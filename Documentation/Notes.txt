@@ -1,0 +1,6 @@
+No hay información del display en Adafruit. Sin embargo, se que usa el chipset UC8151D, es un panel flexible monocolor de 2.9". 
+Ademas revisando otros productos es llegado a la conclusión que debe ser un panel del fabircante GooDisplay(https://www.good-display.com/product/209.html).
+
+Buscando un poco, y con lo que se he llegado al siguiente display que parece cumplir y corresponder.
+
+- https://www.good-display.com/product/209.html
